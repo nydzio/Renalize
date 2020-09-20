@@ -1,0 +1,2 @@
+start orthanc
+start renalize
